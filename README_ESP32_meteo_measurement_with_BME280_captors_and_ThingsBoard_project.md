@@ -152,7 +152,7 @@ Wiring :
 
 All the devices and ThingsBoard working simultaneously :
 
-<img src="file:///C:/Users/diasr/Desktop/OSEF%20WOULA/Snapchat-1489786848.jpg" title="" alt="Snapchat-1489786848.jpg" width="625">
+<img src="file:///C:/Users/diasr/Desktop/OSEF%20WOULA/Snapchat-1489786848.jpg" title="" alt="" width="625">
 
 And here is an example of dashboard with results at two different moments :
 
