@@ -152,7 +152,8 @@ Wiring :
 
 All the devices and ThingsBoard working simultaneously :
 
-<img src="file:///C:/Users/diasr/Desktop/OSEF%20WOULA/Snapchat-1489786848.jpg" title="" alt="" width="625">
+![image](https://github.com/diasredi/ESP32-and-BME280-IOT-M2-CNS-project/assets/93867972/becd9095-42ae-44a3-9812-f4bfc7f16ee3)
+
 
 And here is an example of dashboard with results at two different moments :
 
