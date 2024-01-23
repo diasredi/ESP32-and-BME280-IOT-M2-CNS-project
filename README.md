@@ -50,6 +50,11 @@ To connect the BME280 captor to the ESP32, you'll need to wire each of the capto
 
 - GND to GND pin
 
+![esp32sketch](https://github.com/diasredi/ESP32-and-BME280-IOT-M2-CNS-project/assets/93867972/eb4dfb45-d9b4-4183-82fe-fd4d242590d0)
+
+
+Various models of BME280 exists. Stick with this wiring according to the pin names.
+
 ## 2\) Install required libraries
 
 The required dependencies are :
